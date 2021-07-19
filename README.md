@@ -14,7 +14,7 @@
   - 📫 How to reach me through 👇  
     <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohitagarwal1432/)  &nbsp; 
     [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mohitagarwal1432/)  &nbsp; 
-    [<img src="https://img.icons8.com/material/24/fa314a/youtube-play--v1.png" width="3.5%"/>](https://www.youtube.com/channel/UCVPT5wjaQq2Jnci6IqE9iqA)  &nbsp; 
+    [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/channel/UCVPT5wjaQq2Jnci6IqE9iqA)  &nbsp; 
     <a href="mailto:mohitagarwal1432@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 <br>
