@@ -15,7 +15,7 @@
   - 👯 I’m looking to collaborate for projects and hackathons
   - ⚡ Fun fact: I am still a newbie😄.
   - 😍 Interested to build tech that solve real world problem
-  - 📫 How to reach me through 👇  
+  - 📫 You can reach me through 👇  
     <br />[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohitagarwal1432/)  &nbsp; 
     [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mohitagarwal1432/)  &nbsp; 
     [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/channel/UCVPT5wjaQq2Jnci6IqE9iqA)  &nbsp; 
