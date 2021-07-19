@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohitagarwal1432"> 
   <img src="https://img.shields.io/github/followers/mohitagarwal1432?label=Follow&style=social)[(https://github.com/mohitagarwal1432">
-  <img src="https://shields.io/github/stars/mohitagarwal1432?label=Stars&style=social">
+  <img src="https://shields.io/github/stars/mohitagarwal1432?label=Stars&style=social)[(https://github.com/mohitagarwal1432">
 </p>
 
 <img src="display.gif" width="400px" alt="GIF" align="right"> 
