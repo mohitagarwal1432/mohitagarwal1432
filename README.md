@@ -21,8 +21,10 @@
     [<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/channel/UCVPT5wjaQq2Jnci6IqE9iqA)  &nbsp; 
     <a href="mailto:mohitagarwal1432@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  
 <br>
-<br><br>
+<br>
 <hr />
+<br>
+  
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mohitagarwal1432&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitagarwal1432&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
